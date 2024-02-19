@@ -1,10 +1,11 @@
+import mods
 
 def main ():
-    print('test')
+    print(mods.add_x(1))
+
 
 
 
 if __name__ == '__main__':
     main()
-
 
